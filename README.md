@@ -2,6 +2,8 @@
 
 Este repositório apresenta uma planilha financeira criada para ajudar você a organizar sua vida financeira de forma eficiente e inteligente. Integrando princípios de planejamento financeiro com funcionalidades de Inteligência Artificial, esta ferramenta foi desenvolvida para ser intuitiva e poderosa, ajudando você a tomar melhores decisões sobre seu dinheiro.
 
+- [PLANILHA FINANCEIRA]()
+
 ## Objetivo
 
 Ajudar indivíduos e famílias a:
@@ -22,12 +24,15 @@ Ajudar indivíduos e famílias a:
 - **Microsoft Excel**: Para criar e utilizar a planilha.
 - **IA Integrada**: ChatGPT.
 
+- **LINKS DAS FERRAMENTAS:**
+- [ChatGPT](https://chat.openai.com/) 
+
 ## Estrutura do Repositório
 
 ```
 financial-planning/
 ├── planilha/        # Versões da planilha para diferentes perfis financeiros
-├── README.md         # Documentação principal
+├── README.md        # Documentação principal
 ```
 
 
@@ -40,9 +45,9 @@ Adoraríamos receber sua contribuição! Aqui estão algumas formas de colaborar
 
 ## Contato
 
-Se tiver dúvidas ou sugestões, entre em contato:
-- **E-mail:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- **Redes Sociais:** [@FinanceLifePlanner](https://instagram.com/financelifeplanner)
+Para dúvidas ou sugestões, entre em contato:
+- **E-mail:** (sguimaraes1004@gmail.com)
+- **Redes Sociais:** (https://www.linkedin.com/in/silvia-maria-guimar%C3%A3es-costa-3a01b423b)
 
 Organize suas finanças e conquiste seus objetivos com inteligência e simplicidade! 🌟
 
